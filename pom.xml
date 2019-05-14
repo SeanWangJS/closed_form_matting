@@ -27,6 +27,15 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub haswalk Maven Packages</name>
+            <url>https://maven.pkg.github.com/haswalk</url>
+        </repository>
+    </distributionManagement>
+	
     <dependencies>
         <dependency>
             <groupId>com.haswalk.linalg</groupId>
