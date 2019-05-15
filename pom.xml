@@ -31,8 +31,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub haswalk Maven Packages</name>
-            <url>https://maven.pkg.github.com/haswalk</url>
+            <name>GitHub SeanWangJS Maven Packages</name>
+            <url>https://maven.pkg.github.com/SeanWangJS</url>
         </repository>
     </distributionManagement>
 	
